@@ -1,0 +1,43 @@
+$fontlogo: 'Anton', sans-serif;
+
+.header-nav {
+    display: inline-flex;
+    width: 100%;
+}
+
+.nav-main {
+    display: inline-flex;
+    list-style: none;
+}
+
+.nav-main-logo-a {
+    font-size: 1.5rem;
+    font-weight: bolder;
+    color: #2e2e2e;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: $fontlogo;
+}
+
+.nav-main-logo-inside{
+    color: #e6e6e6;
+}
+
+.nav-social-item {}
+
+.nav-main-a {
+    text-decoration: none;
+}
+
+.nav-social {
+    display: inline-flex;
+    list-style: none;
+}
+
+.nav-social-item {}
+
+.nav-social-a {
+    text-decoration: none;
+}
+
+/*NAV MAIN Y SOCIAL*/
